@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a42862cc6c46c9a2f4877610c18d83, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  sphereConfigData:
+    _textures:
+    - {fileID: 2800000, guid: c2e975e8a074dff45aee75e580a54344, type: 3}
+    - {fileID: 2800000, guid: 819311b7a66a8f740b104cf9f9ffadf5, type: 3}
+    - {fileID: 2800000, guid: 464397aea913d01409f3d8329f26b705, type: 3}
+    - {fileID: 2800000, guid: 5afcfbbc56406fd47a8bb6e1a3da98dd, type: 3}
+    - {fileID: 2800000, guid: b7ee70b4fd03b1c4aafa27cb4db3a673, type: 3}
+    - {fileID: 2800000, guid: c37f4e4a8cd8afc4ca6872288d770961, type: 3}
+    - {fileID: 2800000, guid: 6083cb7d3d54739498ba9dfd7627ba64, type: 3}
+    - {fileID: 2800000, guid: 6ca8a2583723da44dbcb5ff60cdeedbc, type: 3}
+    - {fileID: 2800000, guid: ccb9111526e1c13468f02b1c03776777, type: 3}
+    - {fileID: 2800000, guid: d2658fabe40d01649abca44ef7aa1a61, type: 3}
+    - {fileID: 2800000, guid: 52b99d64baa59234e83d32cd8818704e, type: 3}
+    - {fileID: 2800000, guid: 8bd9f047100a82c4cb50b4ae49bbc86c, type: 3}
+    - {fileID: 2800000, guid: bab28d8bc3ec3f343860deacade1db14, type: 3}
+    - {fileID: 2800000, guid: 2b0c96194bde5894daac68b584fbed55, type: 3}
+    - {fileID: 2800000, guid: e305d09b85e6b0540a78022d9220c497, type: 3}
+    - {fileID: 2800000, guid: a2957db8ba4d22149b85d4f75c3ab881, type: 3}
+    - {fileID: 2800000, guid: c9c6502f04436f6419d8cd534d9e17c3, type: 3}
+    - {fileID: 2800000, guid: 922b2f4389cf30f46ad4dd56df061162, type: 3}
+    - {fileID: 2800000, guid: ae4347e98291d8448a3be47ec58facc6, type: 3}
+    - {fileID: 2800000, guid: 8d597e05d3adf144fbdc3013e95e4bdc, type: 3}
+    _sphereMaterial: {fileID: 2100000, guid: 554333beef9e2ad49b31b4b8e1649581, type: 2}
+    _sphere: {fileID: 2748890335135950998, guid: 995740b163be4ec4c8d20bf22f98b945, type: 3}
+    _count: 20
+    _minRadius: 2
+    _maxRadius: 8
